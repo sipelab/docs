@@ -1,25 +1,24 @@
 {
   "main": {
-    "id": "66fef4ee8eadd28e",
+    "id": "e3cbaee8888b8e38",
     "type": "split",
     "children": [
       {
-        "id": "f042812dd6276dcd",
+        "id": "b766af557ccd91f4",
         "type": "tabs",
         "children": [
           {
-            "id": "b2c5a60951979b88",
+            "id": "8531e06faf1eaac1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Widefield Setup/Software/DeepLabCut.md",
+                "file": "index.md",
                 "mode": "source",
-                "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "DeepLabCut"
+              "title": "index"
             }
           }
         ]
@@ -28,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "f97d8b3798f6512c",
+    "id": "9147d364fc9a870a",
     "type": "split",
     "children": [
       {
-        "id": "d758a5694343c1da",
+        "id": "7b10172d5d1ef1a7",
         "type": "tabs",
         "children": [
           {
-            "id": "a0bf156b24628cc3",
+            "id": "4e41f74616c213af",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,7 +47,7 @@
             }
           },
           {
-            "id": "7defa8d3ed6c2d3f",
+            "id": "321b7bbf228ea9cb",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -65,7 +64,7 @@
             }
           },
           {
-            "id": "b8b24b9f6e84877b",
+            "id": "833b588f869f7cbd",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -81,20 +80,20 @@
     "width": 300
   },
   "right": {
-    "id": "5d2812a8dd2466d3",
+    "id": "d10a399ae8c61193",
     "type": "split",
     "children": [
       {
-        "id": "39e9ae1b147abdec",
+        "id": "cd94c9dc1066c6b0",
         "type": "tabs",
         "children": [
           {
-            "id": "00b2e4259d58825f",
+            "id": "f2d054c3707eb09f",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Widefield Setup/docs/Development Environment/Sipe Lab Dev Environment.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,25 +103,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Sipe Lab Dev Environment"
+              "title": "Backlinks for index"
             }
           },
           {
-            "id": "093839318f473d45",
+            "id": "9f8321228de1d3df",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Widefield Setup/docs/Development Environment/Sipe Lab Dev Environment.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Sipe Lab Dev Environment"
+              "title": "Outgoing links from index"
             }
           },
           {
-            "id": "3e964fdeb2a08eff",
+            "id": "15a6a2333d9a271e",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -135,23 +134,33 @@
             }
           },
           {
-            "id": "18a0cfe08b55db5c",
+            "id": "2943597650ca4a81",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Widefield Setup/docs/Development Environment/Sipe Lab Dev Environment.md"
+                "file": "index.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Sipe Lab Dev Environment"
+              "title": "Outline of index"
+            }
+          },
+          {
+            "id": "d9020c1ca7c944cf",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -161,61 +170,59 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "markdown-importer:Open format converter": false,
-      "publish:Publish changes...": false
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b2c5a60951979b88",
+  "active": "8531e06faf1eaac1",
   "lastOpenFiles": [
-    "Widefield Setup/Software/Analysis GUI.md",
+    "Widefield Setup/Software Packages/MicroManager/MicroManager.md",
+    "%resources/Operations/GlassNest/%attachments/Pasted image 20240612190851.png",
+    "%resources/Operations/GlassNest/%attachments",
+    "%resources/Operations/GlassNest/=GlassNest.md",
+    "%resources/Operations/GlassNest/+wilko.md",
     "%resources/Operations/GlassNest/+Trapdoor.md",
-    "Mesofield/Github Repository.md",
-    "Widefield Setup/Software/DeepLabCut.md",
-    "Widefield Setup/docs/Development Environment/Sipe Lab Dev Environment.md",
+    "%resources/Operations/GlassNest/+tango.md",
+    "%resources/Operations/GlassNest/+alpha.md",
+    "%resources/Operations/GlassNest",
+    "%resources/Operations",
+    "%resources/LOG/%attachments",
+    "%resources/LOG/2024-07-25.md",
+    "%resources/LOG/2024-07-11.md",
+    "%resources/LOG/2024-07-09.md",
+    "%resources/LOG/2024-07-05.md",
+    "%resources/LOG/2024-07-03.md",
+    "%resources/LOG/2024-07-01.md",
+    "%resources/LOG/2024-06-27.md",
+    "%resources/LOG/2024-06-26.md",
+    "%resources/LOG/2024-06-25.md",
+    "%resources/LOG/2024-06-21.md",
+    "%resources/LOG/2024-06-20.md",
+    "%resources/LOG/2024-06-19.md",
     "%resources/LOG/2024-06-18.md",
     "%resources/LOG/2024-06-17.md",
+    "%resources/LOG/2024-06-14.md",
+    "%resources/LOG/2024-06-12.md",
     "%resources/LOG/2024-06-11.md",
-    "Widefield Setup/docs/Opening the Tiff Stacks in Python.md",
-    "Mesofield/Conventional Commits.md",
-    "Mesofield",
-    "Widefield Setup/docs/Development Environment/~$pe Lab Dev Environment.docx",
-    "Widefield Setup/docs/Development Environment/Sipe Lab Dev Environment.docx",
-    "Widefield Setup/docs/Development Environment/Sipe Lab Dev Environment.html",
-    "Widefield Setup/docs/Development Environment/%attachments/Code_Wy3cRNN71y.gif",
-    "Widefield Setup/docs/Development Environment/%attachments/Pasted image 20241205121957.png",
-    "Widefield Setup/docs/napari-mesofield.md",
-    "Widefield Setup/docs/sipefield environment setup.md",
-    "Widefield Setup/docs/Development Environment/%attachments/vscode-git-ext.png",
-    "Widefield Setup/docs/Development Environment/%attachments/vscode-jupyter-ext.png",
-    "Widefield Setup/docs/Development Environment/%attachments/Pasted image 20241204134316.png",
-    "Widefield Setup/docs/Development Environment/%attachments/vscode-datawrangler-ext.png",
-    "Widefield Setup/docs/Development Environment/%attachments/Pasted image 20241204134252.png",
-    "Widefield Setup/docs/Development Environment/%attachments/vscode-python-extensions.png",
-    "Widefield Setup/docs/Development Environment/%attachments/vscode-extension-tab.png",
-    "Widefield Setup/docs/Development Environment/%attachments/select-conda-env-vscode.png",
-    "Widefield Setup/docs/Development Environment/%attachments",
+    "%resources/LOG/-Log Book.md",
+    "%resources/LOG",
+    "%resources/%attachments/1_FCUanQvt8MxxjhaF_UDY-A.webp",
+    "%resources/%attachments",
+    "%resources/Shopping list.md",
+    "%resources/Quick Reference.md",
+    "%resources",
+    "Widefield Setup/Stage Equipment",
+    "Widefield Setup/Software/%attachments/PsychoPy_trial-loop.png",
+    "Widefield Setup/Software/%attachments/PsychoPy_save-bids.png",
+    "Widefield Setup/Software/%attachments/PsychoPy_nTrials.png",
+    "Widefield Setup/Software/%attachments/PsychoPy_io-routine.png",
+    "Widefield Setup/Software/%attachments/PsychoPy_InputOutput-routine.png",
+    "Widefield Setup/Software/%attachments/PsychoPy_disable-dialog.png",
+    "Widefield Setup/Software/%attachments/PsychoPyss.png",
+    "Widefield Setup/Software/%attachments/MicroManager Config Setup.png",
+    "Widefield Setup/Software/%attachments",
+    "Widefield Setup/Software",
     "Widefield Setup/docs/System Design Scheme/Mesofield Acquisition Control Scheme.canvas",
     "Widefield Setup/docs/System Design Scheme/Current Setup.canvas",
-    "Widefield Setup/docs/System Design Scheme",
-    "Widefield Setup/docs/Development Environment",
-    "Widefield Setup/docs/Untitled",
-    "Widefield Setup/docs/Hardware-triggering with Micro-Manager a case study.md",
-    "Widefield Setup/Python/Python Packages/image-sc-forum.md",
-    "Widefield Setup/docs/Current Setup.canvas",
-    "Widefield Setup/Instruments/Control Boards/Arduino.md",
-    "Mesofield Acquisition Control Scheme.canvas",
-    "Widefield Setup/Python/Python Packages/pymmcore-plus.md",
-    "Widefield Setup/Software/PsychoPy.md",
-    "Widefield Setup/Stage Equipment/Rotary Encoder.md",
-    "Widefield Setup/docs/References.md",
-    "Widefield Setup/Software/MicroManager.md",
-    "Widefield Setup/Python/Python Scripts/NIDAQ ai-di-do continuous.md",
-    "%resources/LOG/2024-06-12.md",
-    "Widefield Setup/Python/Python Scripts/ThorLabs-continuous-capture.md",
-    "Widefield Setup/Instruments/Cameras/Dhyana 400BSI V2.md",
-    "%resources/LOG/2024-06-14.md",
-    "Widefield Setup/docs/Background Information.md",
-    "Widefield Setup/Instruments/Control Boards/NI-DAQ/%attachments",
-    "Widefield Setup/Instruments/Control Boards/NI-DAQ"
+    "Widefield Setup/docs/Current Setup.canvas"
   ]
 }
