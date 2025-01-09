@@ -1,8 +1,15 @@
 ---
 docs:
   - "[[Hardware-triggering with Micro-Manager a case study]]"
+  - "[[image-sc-forum]]"
 software:
   - "[[MicroManager]]"
+controls:
+  - "[[LEDD1B T-Cube]]"
+  - "[[Dhyana 400BSI V2]]"
+author: 
+relatives:
+  - "[[Rotary Encoder]]"
 ---
 [[MicroManager#^cf4e08|Guide to Setup Arduino in Micromanager]]
 
@@ -26,7 +33,7 @@ https://forum.image.sc/t/facing-a-challenge-trying-to-integrate-an-arduino-with-
 
 ---
 
-The [Arduino](http://www.arduino.cc/) is a low cost programmable digital IO board. It has some digital inputs and digital outputs and can communicate with the computer through a serial interface (that is hidden in a USB connection). A very nice and simple programming language makes the Arduino very simple to program. The Micro-Manager interface to the Arduino consists of an Arduino program (the ‘firmware’) that you need to upload to the Arduino first. ==The current version of the Micro-Manager has facilities to use the Arduino as a shutter, and as a shutter that only opens when a TTL is set high (for instance, when the camera is exposing). Also, timed sequences of TTL output can be setup==. There are also facilities for programmable analogue out, however, those need connection of a DA chip and requires constructions of a ‘daughterboard’/’shield’.
+The Micro-Manager interface to the Arduino consists of an Arduino program (the ‘firmware’) that you need to upload to the Arduino first. ==The current version of the Micro-Manager has facilities to use the Arduino as a shutter, and as a shutter that only opens when a TTL is set high (for instance, when the camera is exposing). Also, timed sequences of TTL output can be setup==. 
 
 ![Figure: Functional pinout set by firmware version2](https://micro-manager.org/media/Micro-manager_bb.png)
 
@@ -107,18 +114,7 @@ The “blanking” feature of the device adapter allows to ensure that the sampl
 | DAC{1,2}-HubID         | (Not usually used) Reserved for TLV5618 AOTF Peripheral.                                                                                                                                                                                              |
 | DAC(1,2}-Volts         | (Not usually used) Reserved for TLV5618 AOTF Peripheral.                                                                                                                                                                                              |
 
-## Project Tutorials
-
-- [Step-by-step to controlling multiple light sources with an Arduino for sequenceable MDA](https://github.com/vanNimwegenLab/MiM_NikonTi/blob/master/Docs/NikonTi_hardware_triggering.md) by Guillaume Witz & Thomas Julou.
-
-- [TTL control of multiple LEDs](http://homepages.uconn.edu/~mb2225vc/MCB_2225/LED_Construction.html) by David Knecht.
-
-- [Detect tube lens position](https://micro-manager.org/Encoding_the_Nikon_TI_Eclipse_tube_lens) of Nikon Ti Eclipse
-
-- [Control laser shutter with Arduino](https://micro-manager.org/Control_laser_shutters_with_Arduino) by Rocco D’Antuono.
-
-- [3D printed enclosure with 8 BNC connectors for an Arduino](http://nic.ucsf.edu/dokuwiki/doku.php?id=3d_printing:3dparts) by Kurt Thorn
-
-- [Open LED Illuminator](http://www.plosone.org/article/fetchObject.action?uri=info:doi/10.1371/journal.pone.0143547&representation=PDF) by Jens B. Bosse et al.
 
 [Discussion page](https://micro-manager.org/talk/Arduino) for Arduino imported from old wiki
+
+

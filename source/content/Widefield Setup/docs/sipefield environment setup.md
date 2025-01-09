@@ -1,4 +1,4 @@
-- [ ] Add a high_framerate.cfg simulation camera for development
+
 
 1. Install [[MicroManager]] from [[MicroManager#^963752|here]]
 	- Note the installation path somewhere C:/Program Files/Micro-Manager-2.0
@@ -6,21 +6,36 @@
 	- Follow the Tuscan camera [[Dhyana 400BSI V2#^5c9057|user guide]] for importing the driver files into the MicroManager program file folder noted above
 
 
-Installation of [[Widefield Setup/Python/Napari]]
+Installation of [[Napari]]
 
 Initialize `conda` environment named `sipefield` with `Python 3.10`
-`conda create -y -n sipefield -c conda-forge python=3.10`
-`conda activate napari-env`
 
-install napari
-`conda install -c conda-forge napari pyqt`
+``` bash
+conda create -y -n sipefield -c conda-forge python=3.10
+conda activate napari-env
+```
 
-update napari
-`conda update napari`
+install Napari
+```bash
+conda install -c conda-forge napari pyqt
+```
 
-launch napari
-`napari` 
+update Napari
+```bash
+conda update napari
+```
 
-Install [[Widefield Setup/Python/Napari#^293649|micromanager plugin]]
-- On [[sipefield environment setup]] `pip install napari-micromanager`
-- `mmcore install` for [[MicroManager]] adaptors
+launch Napari
+```bash
+napari
+``` 
+
+Install [[Napari 1#^293649|micromanager plugin]]
+- On [[sipefield environment setup]] 
+```bash
+pip install napari-micromanager
+```
+- for [[MicroManager]] adaptors:
+```bash
+mmcore install
+```
