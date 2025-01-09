@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mesofield/Stage Equipment/Stage Equipment.md",
+                "file": "index.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Stage Equipment"
+              "title": "index"
             }
           }
         ]
@@ -140,10 +140,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mesofield/Stage Equipment/Stage Equipment.md"
+                "file": "index.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Stage Equipment"
+              "title": "Outline of index"
             }
           },
           {
@@ -178,6 +178,7 @@
   },
   "active": "8531e06faf1eaac1",
   "lastOpenFiles": [
+    "Mesofield/Stage Equipment/Stage Equipment.md",
     "Mesofield/Computers/Mesofield Computer.md",
     "Mesofield/Computers/Mesofield Computers.md",
     "Mesofield/Stage Equipment/MCM3002 Control Knobs.md",
@@ -200,7 +201,6 @@
     "Mesofield/Stage Equipment/Rotary Encoder.md",
     "Software/Napari.md",
     "Mesofield/Stage Equipment/LEDD1B T-Cube.md",
-    "Mesofield/Stage Equipment/Stage Equipment.md",
     "Mesofield/Instruments/LEDD1B T-Cube.md",
     "Mesofield/Instruments/Cameras/Thorlabs CS165 MU.md",
     "Mesofield/Instruments/Arduino.md",
