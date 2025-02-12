@@ -21,8 +21,33 @@
               "icon": "lucide-file",
               "title": "index"
             }
+          },
+          {
+            "id": "aedee2d637704a74",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tutorials and Guides/Git/Semantic Versioning 2.0.0.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Semantic Versioning 2.0.0"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -41,7 +66,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -176,8 +202,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8531e06faf1eaac1",
+  "active": "4e41f74616c213af",
   "lastOpenFiles": [
+    "Tutorials and Guides/Git",
+    "%resources/Quick Reference.md",
+    "Tutorials and Guides/Git/Semantic Versioning 2.0.0.md",
+    "Clippings",
+    "Development Environment/Sipe Lab Dev Environment.md",
+    "Tutorials and Guides/ArduCam Windows Setup.md",
+    "index.md",
     "Mesofield/Stage Equipment/Stage Equipment.md",
     "Mesofield/Computers/Mesofield Computer.md",
     "Mesofield/Computers/Mesofield Computers.md",
@@ -186,8 +219,6 @@
     "Software/Psychopy/PsychoPy.md",
     "%resources/%attachments/1_FCUanQvt8MxxjhaF_UDY-A.webp",
     "Tutorials and Guides/OME Data Model.md",
-    "%resources/Quick Reference.md",
-    "Development Environment/Sipe Lab Dev Environment.md",
     "Development Environment/~$pe Lab Dev Environment.docx",
     "Mesofield/System Design Scheme/Prototype Setup.canvas",
     "Mesofield/docs/Current Setup.canvas",
@@ -197,7 +228,7 @@
     "Mesofield/Instruments/Tandem Lenses.md",
     "Mesofield/Instruments/Lenses/Nikon AF-S Nikkor 105mm.md",
     "Mesofield/Instruments/Lenses/Nikon 105mm f2 AF DC Nikkor.md",
-    "Tutorials and Guides/Conventional Commits.md",
+    "Tutorials and Guides/Git/Conventional Commits.md",
     "Mesofield/Stage Equipment/Rotary Encoder.md",
     "Software/Napari.md",
     "Mesofield/Stage Equipment/LEDD1B T-Cube.md",
@@ -205,10 +236,6 @@
     "Mesofield/Instruments/Cameras/Thorlabs CS165 MU.md",
     "Mesofield/Instruments/Arduino.md",
     "Software/MicroManager/MicroManager.md",
-    "Mesofield/Instruments/Rotary Encoder.md",
-    "Software/Analysis GUI.md",
-    "Python/pymmcore-plus.md",
-    "Mesofield/Instruments/NI-DAQ/NI USB-6001.md",
     "Software/Deeplabcut",
     "Software/Psychopy",
     "Tutorials and Guides",
@@ -218,7 +245,6 @@
     "%resources/Operations",
     "%resources/LOG/%attachments",
     "%resources/LOG",
-    "%resources/%attachments",
     "Software/%attachments/PsychoPy_trial-loop.png",
     "Software/%attachments/PsychoPy_save-bids.png",
     "Software/%attachments/PsychoPy_nTrials.png",
