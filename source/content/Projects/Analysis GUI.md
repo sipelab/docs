@@ -76,8 +76,8 @@ The result should be a gui that shows both the meso and pupil videos above the s
 | Data Type                               | Directory                   | Filename Pattern                      |
 | --------------------------------------- | --------------------------- | ------------------------------------- |
 | Wheel Encoder Data                      | `/beh`                      | `_encoder-data.csv`                   |
-| Psychopy Data                           | `/beh`                      | Psychopy CSV/JSON files               |
-| Meso Metadata                           | `/func`                     | `_meso.ome.tiff_frame_metadata.json`  |
-| Pupil Metadata                          | `/func`                     | `_pupil.ome.tiff_frame_metadata.json` |
-| OME TIFF Stacks                         | `/func`                     | `_meso.ome` and `_pupil.ome`          |
+| [[PsychoPy]] Data                       | `/beh`                      | Psychopy CSV/JSON files               |
+| [[Dhyana 400BSI V2\|Meso]] Metadata     | `/func`                     | `_meso.ome.tiff_frame_metadata.json`  |
+| [[Thorlabs CS165 MU\|Pupil]] Metadata   | `/func`                     | `_pupil.ome.tiff_frame_metadata.json` |
+| [[OME Data Model\|OME]] TIFF Stacks     | `/func`                     | `_meso.ome` and `_pupil.ome`          |
 | Session-Level JSON files (for dropdown) | Parent directory above BIDS | `*.json`                              |

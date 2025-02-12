@@ -1,4 +1,23 @@
+---
+github: https://github.com/napari/napari
+docs: https://napari.org/stable/
+---
+https://forum.microlist.org/t/belatedly-announcing-pymmcore-plus-an-ecosystem-of-pure-python-tools-for-running-experiments-with-micro-manager-core/2268
 
+[Installation Guide](https://napari.org/stable/tutorials/fundamentals/installation.html)
+
+[napari-micromanager plugin](https://github.com/pymmcore-plus/napari-micromanager#napari-micromanager) ^293649
+
+```shell
+conda install -c conda-forge napari pyqt
+
+conda update napari
+
+napari
+```
+
+
+# Napari-Micromanager environment setup
 
 1. Install [[MicroManager]] from [[MicroManager#^963752|here]]
 	- Note the installation path somewhere C:/Program Files/Micro-Manager-2.0
@@ -31,7 +50,7 @@ napari
 ``` 
 
 Install [[Napari 1#^293649|micromanager plugin]]
-- On [[sipefield environment setup]] 
+- On [[Napari-Micromanager environment setup]] 
 ```bash
 pip install napari-micromanager
 ```

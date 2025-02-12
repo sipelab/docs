@@ -1,7 +1,7 @@
 ---
 github: https://github.com/pymmcore-plus
 relatives:
-  - "[[Software/Napari|Napari]]"
+  - "[[Napari|Napari]]"
   - "[[MicroManager]]"
   - "[[PsychoPy]]"
 docs:

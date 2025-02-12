@@ -1,7 +1,7 @@
 ---
 website: https://micro-manager.org/
 relatives:
-  - "[[Software/Napari|Napari]]"
+  - "[[Napari|Napari]]"
   - "[[pymmcore-plus]]"
 controls:
   - "[[Dhyana 400BSI V2]]"
@@ -12,7 +12,7 @@ controls:
 [User Guide](https://micro-manager.org/Version_2.0_Users_Guide#sequence-acquisitions)
 [Hardware Based Synchronization](https://micro-manager.org/Hardware-based_Synchronization_in_Micro-Manager)
 [Download](https://micro-manager.org/Download_Micro-Manager_Latest_Release) ^963752
-[Integration](https://micro-manager.org/Using_the_Micro-Manager_python_library) with [[pymmcore-plus]] and [[Software/Napari|Napari]]
+[Integration](https://micro-manager.org/Using_the_Micro-Manager_python_library) with [[pymmcore-plus]] and [[Napari|Napari]]
 
 # How to Create a Configuration file
 1. Turn on the camera and devices connected to the computer
