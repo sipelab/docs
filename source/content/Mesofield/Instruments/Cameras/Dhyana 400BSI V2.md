@@ -4,14 +4,15 @@ relatives:
 software:
   - "[[MicroManager]]"
 ---
-This is the primary Mesoscopic scientific imaging camera that collects images via [[Tandem Lenses]] ([[Nikon AF-S Nikkor 50mm]], [[Nikon AF-S Nikkor 105mm]]). Using Tucsen's  [Drivers and Software plugins](https://www.tucsen.com/Home/Product/download/dataid/19/id/27.html) for [[MicroManager]], the camera can be controlled with Python code via [[pymmcore-plus]] (see also [[Thorlabs CS165 MU]] similar setup for pupil collection). 
 
-The Dhyana camera's exposure trigger output (see below) sends pulses to an [[Arduino|Arduino R3 with MicroManager firmware]]. The Arduino can then be programmed to sequence a pattern of LEDs [[Mesofield/Stage Equipment/LEDD1B T-Cube|LEDD1B T-Cube]]
+Lenses
+- [[Nikon AF-S Nikkor 50mm]]
+- [[Nikon AF-S Nikkor 105mm]]
 
 
 ![[Dhyana 400BSI V2 dimensions.png]]
 ## [Specifications]([BSI-sCMOS-Camera-Dhyana-400BSIV2-Tucsen.pdf](file:///C:/Users/SIPE_LAB/Desktop/desktop/BSI-sCMOS-Camera-Dhyana-400BSIV2-Tucsen.pdf))
-## ^65d0c1
+## [Drivers and Software plugins](https://www.tucsen.com/Home/Product/download/dataid/19/id/27.html) ^65d0c1
 ## [Trigger Instructions](https://www.tucsen.com/uploads/Camera-External-Trigger-Instructions.pdf) ^fe9623
 - 3.4.1 Capture Mode:
 	- Camera capture modes are divided into the following 2 categories:

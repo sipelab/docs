@@ -3,12 +3,11 @@ devices:
   - "[[Arduino]]"
   - "[[XYZ Stage Control]]"
   - "[[Dhyana 400BSI V2]]"
-website: https://www.thorlabs.com/newgrouppage9.cfm?objectgroup_id=2616&pn=LEDD1B
 ---
 
 ![[47j062ih.bmp]]
 
-
+https://www.thorlabs.com/newgrouppage9.cfm?objectgroup_id=2616&pn=LEDD1B
 
 
 | Type                       | Max Number  <br>of LEDs | Max  <br>Current | Modulation  <br>Mode |

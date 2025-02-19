@@ -1,34 +1,19 @@
 {
   "main": {
-    "id": "e3cbaee8888b8e38",
+    "id": "66fef4ee8eadd28e",
     "type": "split",
     "children": [
       {
-        "id": "b766af557ccd91f4",
+        "id": "ff1cfe4af4fcdda3",
         "type": "tabs",
         "children": [
           {
-            "id": "8531e06faf1eaac1",
+            "id": "f9534a5de0b190f3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "index"
-            }
-          },
-          {
-            "id": "aedee2d637704a74",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Development Environment/Sipe Lab Dev Environment.md",
+                "file": "Mesofield/Software/DeepLabCut.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -43,43 +28,42 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Sipe Lab Dev Environment"
+              "title": "DeepLabCut"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "9147d364fc9a870a",
+    "id": "f97d8b3798f6512c",
     "type": "split",
     "children": [
       {
-        "id": "7b10172d5d1ef1a7",
+        "id": "d758a5694343c1da",
         "type": "tabs",
         "children": [
           {
-            "id": "4e41f74616c213af",
+            "id": "a0bf156b24628cc3",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": true
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
             }
           },
           {
-            "id": "321b7bbf228ea9cb",
+            "id": "7defa8d3ed6c2d3f",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "dee",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -91,7 +75,7 @@
             }
           },
           {
-            "id": "833b588f869f7cbd",
+            "id": "b8b24b9f6e84877b",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -107,20 +91,20 @@
     "width": 300
   },
   "right": {
-    "id": "d10a399ae8c61193",
+    "id": "5d2812a8dd2466d3",
     "type": "split",
     "children": [
       {
-        "id": "cd94c9dc1066c6b0",
+        "id": "39e9ae1b147abdec",
         "type": "tabs",
         "children": [
           {
-            "id": "f2d054c3707eb09f",
+            "id": "00b2e4259d58825f",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "Widefield Setup/docs/Development Environment/Sipe Lab Dev Environment.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,25 +114,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for index"
+              "title": "Backlinks for Sipe Lab Dev Environment"
             }
           },
           {
-            "id": "9f8321228de1d3df",
+            "id": "093839318f473d45",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "Widefield Setup/docs/Development Environment/Sipe Lab Dev Environment.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from index"
+              "title": "Outgoing links from Sipe Lab Dev Environment"
             }
           },
           {
-            "id": "15a6a2333d9a271e",
+            "id": "3e964fdeb2a08eff",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -161,97 +145,90 @@
             }
           },
           {
-            "id": "2943597650ca4a81",
+            "id": "18a0cfe08b55db5c",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "Widefield Setup/docs/Development Environment/Sipe Lab Dev Environment.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of index"
-            }
-          },
-          {
-            "id": "8bbbf144b122e6cb",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "title": "Outline of Sipe Lab Dev Environment"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "markdown-importer:Open format converter": false,
-      "publish:Publish changes...": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false
+      "markdown-importer:Open format converter": false,
+      "publish:Publish changes...": false
     }
   },
-  "active": "aedee2d637704a74",
+  "active": "a0bf156b24628cc3",
   "lastOpenFiles": [
-    "Python/Potential Packages.md",
-    "Python/PyTorch.md",
-    "Tutorials and Guides/Image Data/Opening the Tiff Stacks in Python.md",
-    "Projects/Analysis GUI.md",
-    "Tutorials and Guides/OME Data Mod.md",
-    "Tutorials and Guides/Image Data/OME Data Model.md",
-    "Tutorials and Guides/Image Data",
-    "Tutorials and Guides/Hardware-triggering with Micro-Manager a case study.md",
-    "Tutorials and Guides/Hardware-triggering with Micro-Manager a case study 1.md",
-    "Tutorials and Guides/ArduCam Windows Setup.md",
-    "Tutorials and Guides/AutoHotkey.md",
-    "Tutorials and Guides/%attachments/arduinoTi_trigger_dual_simple.png",
-    "Tutorials and Guides/%attachments/Triggers.png",
-    "Tutorials and Guides/%attachments/Two_color_MM_Arduino_schema.png",
-    "Tutorials and Guides/%attachments/Basic_Arduino.png",
-    "Tutorials and Guides/%attachments",
-    "Tutorials and Guides/Software/MicroManager.md",
-    "Tutorials and Guides/Software/Napari.md",
-    "Tutorials and Guides/Software/Napari/Napari-Micromanager environment setup.md",
-    "Tutorials and Guides/Software/Napari",
-    "Tutorials and Guides/Software/DeepLabCut.md",
-    "Tutorials and Guides/Software/PsychoPy.md",
-    "Python/Napari.md",
-    "Tutorials and Guides/Psychopy autorun.md",
-    "Projects",
-    "Tutorials and Guides/Git/Semantic Versioning 2.0.0.md",
-    "Tutorials and Guides/Git",
-    "%resources/Quick Reference.md",
+    "Mesofield/Python/Python Scripts/NIDAQ ai-di-do continuous.md",
+    "Clippings/Index of informatics-archivecurrent-releasemouse_ccf.md",
+    "Clippings/Projection Experiment Page - Cortical Map  Allen Brain Atlas Mouse Connectivity.md",
+    "Clippings/Projection Dataset - How To  Allen Mouse Brain Connectivity Atlas - Allen Brain Map Community Forum.md",
     "Clippings",
-    "Development Environment/Sipe Lab Dev Environment.md",
-    "index.md",
-    "Mesofield/Stage Equipment/Stage Equipment.md",
-    "Mesofield/Computers/Mesofield Computer.md",
-    "Mesofield/Computers/Mesofield Computers.md",
-    "Mesofield/Stage Equipment/MCM3002 Control Knobs.md",
-    "%resources/%attachments/1_FCUanQvt8MxxjhaF_UDY-A.webp",
-    "Development Environment/~$pe Lab Dev Environment.docx",
-    "Mesofield/System Design Scheme/Prototype Setup.canvas",
-    "Mesofield/docs/Current Setup.canvas",
-    "Mesofield/System Design Scheme/Mesofield Acquisition Control Scheme.canvas",
-    "Mesofield/Instruments/Cameras/Dhyana 400BSI V2.md",
-    "Tutorials and Guides/Software/Deeplabcut",
-    "Software/Psychopy",
-    "Tutorials and Guides",
-    "%resources/Operations/GlassNest/%attachments/Pasted image 20240612190851.png",
-    "Tutorials and Guides/Software/%attachments/PsychoPy_trial-loop.png",
-    "Tutorials and Guides/Software/%attachments/PsychoPy_save-bids.png",
-    "Tutorials and Guides/Software/%attachments/PsychoPy_nTrials.png",
-    "Tutorials and Guides/Software/%attachments/PsychoPy_io-routine.png"
+    "Mesofield/Software/DeepLabCut.md",
+    "Mesofield/Software/PsychoPy.md",
+    "Mesofield/Software/Napari.md",
+    "Projects/Pass Python object to Subprocess.md",
+    "Projects/ExperimentConfigBase(ABC) Class implementation.md",
+    "Widefield Setup/docs/Development Environment/~$pe Lab Dev Environment.docx",
+    "Resources/Clippings/Structuring Your Project — The Hitchhiker's Guide to Python.md",
+    "Resources/Clippings/Global-Shutter vs. Rolling-Shutter Readouts.md",
+    "Resources/Clippings/Physiological Parameters of lab Mouse.md",
+    "Resources/Clippings",
+    "Mesofield/Calibration.md",
+    "Resources/Arduino Serial Communication.md",
+    "Resources/docs/System Design Scheme/%attachments/206n1mhj.bmp",
+    "Resources/docs/Development Environment/%attachments/Code_Wy3cRNN71y.gif",
+    "Resources/docs/Development Environment/%attachments/select-conda-env-vscode.png",
+    "Resources/docs/Development Environment/%attachments/vscode-python-extensions.png",
+    "Resources/docs/Development Environment/%attachments/vscode-git-ext.png",
+    "Resources/docs/Hardware-triggering with Micro-Manager a case study.md",
+    "Resources/docs/Development Environment/%attachments/vscode-jupyter-ext.png",
+    "Resources/docs/Development Environment/%attachments/vscode-datawrangler-ext.png",
+    "Resources/docs/System Design Scheme/Mesofield Acquisition Control Scheme.canvas",
+    "Resources/docs/Development Environment/%attachments/vscode-extension-tab.png",
+    "Resources/docs/System Design Scheme/Legacy Setup (deprecated).canvas",
+    "Resources/docs/Development Environment/%attachments/conda-env-vscode.png",
+    "Resources/docs/System Design Scheme/ImageViewer.md",
+    "Resources/docs/References.md",
+    "Resources/docs/Development Environment/Sipe Lab Dev Environment.md",
+    "Resources/docs/Background Information.md",
+    "Resources/docs/Opening the Tiff Stacks in Python.md",
+    "Resources/docs/Quick Reference.md",
+    "Resources/docs/System Design Scheme/Record.md",
+    "Resources/docs/sipefield environment setup.md",
+    "Resources/docs/Psychopy autorun.md",
+    "Resources/docs/System Design Scheme/Add Note.md",
+    "Resources/docs/napari-mesofield.md",
+    "Resources/docs/Development Environment/%attachments",
+    "Resources/docs/System Design Scheme/%attachments",
+    "Resources/docs/Development Environment",
+    "Resources/docs/System Design Scheme",
+    "Resources/docs",
+    "Resources/Guiding Principles",
+    "Resources",
+    "Mesofield/%attachments/7ys5bmri.bmp",
+    "Widefield Setup/docs/System Design Scheme/Legacy Setup (deprecated).canvas",
+    "Widefield Setup/docs/System Design Scheme/Mesofield Acquisition Control Scheme.canvas",
+    "Widefield Setup/docs/System Design Scheme/Current Setup.canvas",
+    "Widefield Setup/docs/Current Setup.canvas",
+    "Mesofield Acquisition Control Scheme.canvas"
   ]
 }
