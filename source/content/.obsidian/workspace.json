@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Widefield Setup/docs/Development Environment/Sipe Lab Dev Environment.md",
+                "file": "Mesofield/Software/DeepLabCut.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Sipe Lab Dev Environment"
+              "title": "Backlinks for DeepLabCut"
             }
           },
           {
@@ -138,7 +138,9 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "Tags"
@@ -150,18 +152,31 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Widefield Setup/docs/Development Environment/Sipe Lab Dev Environment.md"
+                "file": "Mesofield/Software/DeepLabCut.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Sipe Lab Dev Environment"
+              "title": "Outline of DeepLabCut"
+            }
+          },
+          {
+            "id": "5cafb9f1495496c1",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -172,59 +187,61 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "markdown-importer:Open format converter": false,
-      "publish:Publish changes...": false
+      "publish:Publish changes...": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a0bf156b24628cc3",
+  "active": "3e964fdeb2a08eff",
   "lastOpenFiles": [
-    "Mesofield/Python/Python Scripts/NIDAQ ai-di-do continuous.md",
-    "Clippings/Index of informatics-archivecurrent-releasemouse_ccf.md",
-    "Clippings/Projection Experiment Page - Cortical Map  Allen Brain Atlas Mouse Connectivity.md",
-    "Clippings/Projection Dataset - How To  Allen Mouse Brain Connectivity Atlas - Allen Brain Map Community Forum.md",
-    "Clippings",
-    "Mesofield/Software/DeepLabCut.md",
-    "Mesofield/Software/PsychoPy.md",
-    "Mesofield/Software/Napari.md",
-    "Projects/Pass Python object to Subprocess.md",
-    "Projects/ExperimentConfigBase(ABC) Class implementation.md",
-    "Widefield Setup/docs/Development Environment/~$pe Lab Dev Environment.docx",
-    "Resources/Clippings/Structuring Your Project — The Hitchhiker's Guide to Python.md",
-    "Resources/Clippings/Global-Shutter vs. Rolling-Shutter Readouts.md",
-    "Resources/Clippings/Physiological Parameters of lab Mouse.md",
-    "Resources/Clippings",
-    "Mesofield/Calibration.md",
-    "Resources/Arduino Serial Communication.md",
-    "Resources/docs/System Design Scheme/%attachments/206n1mhj.bmp",
-    "Resources/docs/Development Environment/%attachments/Code_Wy3cRNN71y.gif",
-    "Resources/docs/Development Environment/%attachments/select-conda-env-vscode.png",
-    "Resources/docs/Development Environment/%attachments/vscode-python-extensions.png",
-    "Resources/docs/Development Environment/%attachments/vscode-git-ext.png",
-    "Resources/docs/Hardware-triggering with Micro-Manager a case study.md",
-    "Resources/docs/Development Environment/%attachments/vscode-jupyter-ext.png",
-    "Resources/docs/Development Environment/%attachments/vscode-datawrangler-ext.png",
+    "Tutorials and Guides/AutoHotkey.md",
+    "Tutorials and Guides/Software/MicroManager.md",
+    "Tutorials and Guides/%attachments/Two_color_MM_Arduino_schema.png",
+    "Tutorials and Guides/%attachments/Triggers.png",
+    "Tutorials and Guides/%attachments/Basic_Arduino.png",
+    "Tutorials and Guides/%attachments/arduinoTi_trigger_dual_simple.png",
+    "Resources/Sipe Lab Dev Environment.md",
+    "Resources/Software/%attachments/PsychoPy_nTrials.png",
+    "Resources/Software/%attachments/PsychoPy_save-bids.png",
+    "Resources/Software/%attachments/PsychoPy_trial-loop.png",
+    "Resources/Software/%attachments/PsychoPy_InputOutput-routine.png",
+    "Resources/Software/%attachments/PsychoPy_io-routine.png",
+    "Resources/Software/%attachments/PsychoPyss.png",
+    "Resources/Software/Napari.md",
+    "Resources/Software/MicroManager.md",
+    "Resources/Software/AutoHotkey.md",
+    "Resources/Software/%attachments",
+    "Resources/Software",
+    "Resources/Python/Python Scripts/ThorLabs-continuous-capture.md",
+    "Resources/Python/Python Principles/Structuring Your Project — The Hitchhiker's Guide to Python.md",
+    "Resources/Python/Python Scripts/NIDAQ ai-di-do continuous.md",
+    "Resources/Python/Python Scripts/=scripts.md",
+    "Resources/Python/Python Packages/pymmcore-plus.md",
+    "Resources/Python/Python Packages/Potential Packages.md",
+    "Resources/Python/Python Packages/PycroManager.md",
+    "Resources/Python/Python Packages/image-sc-forum.md",
+    "Resources/Python/Python Scripts",
+    "Resources/Python/Python Principles",
+    "Resources/Python/Python Packages",
+    "Resources/Python",
+    "Resources/PsychoPy/PsychoPy.md",
+    "Resources/PsychoPy/Psychopy autorun.md",
+    "Resources/PsychoPy",
+    "Resources/Development Environment/Semantic Versioning 2.0.0.md",
+    "Resources/Development Environment/Setup a Github Repository.md",
+    "Resources/Development Environment/Git.md",
+    "Resources/Development Environment/Conventional Commits.md",
+    "Resources/Development Environment/%attachments",
+    "Resources/Development Environment",
+    "Resources/Data Management/Opening the Tiff Stacks in Python.md",
+    "Resources/Data Management/OME Data Model.md",
+    "Resources/Data Management",
+    "Resources/Clippings/Time Synchronization/syntalossyntalos Synchronized data acquisition from diverse sources and flexible control for behavior experiments.md",
+    "Resources/Clippings/Time Synchronization/Synchronizing Data Streams — Open Ephys GUI Docs.md",
+    "Resources/Clippings/Time Synchronization/Barcode Generation.md",
+    "Resources/Arduino/Two ways communication between Python3 and Arduino - Projects  Tutorials - Arduino Forum.md",
+    "Mesofield/System Design Scheme/Legacy Setup (deprecated).canvas",
     "Resources/docs/System Design Scheme/Mesofield Acquisition Control Scheme.canvas",
-    "Resources/docs/Development Environment/%attachments/vscode-extension-tab.png",
     "Resources/docs/System Design Scheme/Legacy Setup (deprecated).canvas",
-    "Resources/docs/Development Environment/%attachments/conda-env-vscode.png",
-    "Resources/docs/System Design Scheme/ImageViewer.md",
-    "Resources/docs/References.md",
-    "Resources/docs/Development Environment/Sipe Lab Dev Environment.md",
-    "Resources/docs/Background Information.md",
-    "Resources/docs/Opening the Tiff Stacks in Python.md",
-    "Resources/docs/Quick Reference.md",
-    "Resources/docs/System Design Scheme/Record.md",
-    "Resources/docs/sipefield environment setup.md",
-    "Resources/docs/Psychopy autorun.md",
-    "Resources/docs/System Design Scheme/Add Note.md",
-    "Resources/docs/napari-mesofield.md",
-    "Resources/docs/Development Environment/%attachments",
-    "Resources/docs/System Design Scheme/%attachments",
-    "Resources/docs/Development Environment",
-    "Resources/docs/System Design Scheme",
-    "Resources/docs",
-    "Resources/Guiding Principles",
-    "Resources",
-    "Mesofield/%attachments/7ys5bmri.bmp",
     "Widefield Setup/docs/System Design Scheme/Legacy Setup (deprecated).canvas",
     "Widefield Setup/docs/System Design Scheme/Mesofield Acquisition Control Scheme.canvas",
     "Widefield Setup/docs/System Design Scheme/Current Setup.canvas",

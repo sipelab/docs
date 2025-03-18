@@ -1,1 +1,0 @@
-https://forum.arduino.cc/t/two-ways-communication-between-python3-and-arduino/1219738?_gl=1*hrx9yb*_up*MQ..*_ga*MjM5NDM1NTU2LjE3MzcxNDUxNTg.*_ga_NEXN8H46L5*MTczNzE0NTE1Ni4xLjAuMTczNzE0NTE1Ni4wLjAuMTI2OTQ3NDYwOA..

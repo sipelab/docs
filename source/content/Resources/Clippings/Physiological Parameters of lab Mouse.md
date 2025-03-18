@@ -24,24 +24,24 @@ tags:
 
 \* A higher temperature is required for newborns, animals that are ill or have undergone surgery and specific genetically altered strains (data modified from source: Van Zutphen, L.F.M., Baumans, V. and Beynen, A.C., Principles of Laboratory Animal Science, second edition, Elsevier Science, Amsterdam, 2001).
 
-| General Physiological parameters (unit) | Value |
-| --- | --- |
-| Adult weight (g) | 20-40 (male)  25-40 (female) |
-| Lifespan (years) | 1-2 |
-| Heart rate resting (per min) | 300-800 |
-| Respiration rate resting (per min) | 100-200 |
-| Body temperature (ºC) | 36.5- 38.0 |
-| Number of chromosomes (2n) | 40 |
-| Body surface (cm²) | 36 (20 g)  130 (50 g)  260 (125 g) |
-| Water intake (ml/100 g/day) | 15 |
-| Sexual maturity (weeks) | 5 (male and female) |
-| Breeding age (weeks) | 8-10 (male and female) |
-| Estrous cycle (days) | 4 (2-9) |
-| Duration estrous (hours) | 14 |
-| Gestation (days) | 19 (18-21) |
-| Litter size | 6-12 |
-| Birth weight (g) | 0.5- 1.5 |
-| Weaning weight (g) and weaning age (days) | 10 and 21-28 |
+| General Physiological parameters (unit)   | Value                              |
+| ----------------------------------------- | ---------------------------------- |
+| Adult weight (g)                          | 20-40 (male)  25-40 (female)       |
+| Lifespan (years)                          | 1-2                                |
+| Heart rate resting (per min)              | 300-800                            |
+| Respiration rate resting (per min)        | 100-200                            |
+| Body temperature (ºC)                     | 36.5- 38.0                         |
+| Number of chromosomes (2n)                | 40                                 |
+| Body surface (cm²)                        | 36 (20 g)  130 (50 g)  260 (125 g) |
+| Water intake (ml/100 g/day)               | 15                                 |
+| Sexual maturity (weeks)                   | 5 (male and female)                |
+| Breeding age (weeks)                      | 8-10 (male and female)             |
+| Estrous cycle (days)                      | 4 (2-9)                            |
+| Duration estrous (hours)                  | 14                                 |
+| Gestation (days)                          | 19 (18-21)                         |
+| Litter size                               | 6-12                               |
+| Birth weight (g)                          | 0.5- 1.5                           |
+| Weaning weight (g) and weaning age (days) | 10 and 21-28                       |
 
 | Blood values (unit) | Value |
 | --- | --- |

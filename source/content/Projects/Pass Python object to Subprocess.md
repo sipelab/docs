@@ -1,6 +1,6 @@
 # Goal: 
 
-Pass the ExperimentConfig class object to a [[PsychoPy]] subprocess
+Pass the ExperimentConfig class object to a [[Resources/Software/PsychoPy]] subprocess
 
 # Purpose:
 

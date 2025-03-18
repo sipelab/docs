@@ -2,7 +2,7 @@
 relatives:
   - "[[Arduino]]"
 software:
-  - "[[PsychoPy]]"
+  - "[[Resources/Software/PsychoPy]]"
 author: jgronemeyer
 ---
 # Encoder

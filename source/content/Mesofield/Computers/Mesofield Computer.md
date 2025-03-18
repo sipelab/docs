@@ -21,6 +21,6 @@ devices:
 
 software:
   - [[MicroManager]]
-  - [[PsychoPy]]
+  - [[Resources/Software/PsychoPy]]
   - [[pymmcore-plus]]
   - [[DeepLabCut]]

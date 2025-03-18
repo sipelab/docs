@@ -10,6 +10,13 @@ software:
   - "[[Napari]]"
 ---
 
+| Component | Specification |
+| --------- | ------------- |
+| CPU       |               |
+| GPU       |               |
+| RAM       |               |
+| Storage   |               |
+
 devices:
   - [[Dhyana 400BSI V2]]
   - [[XYZ Stage Control]]
