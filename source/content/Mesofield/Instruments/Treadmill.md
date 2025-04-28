@@ -1,9 +1,27 @@
+---
+tags:
+  - hardware
+  - underconstruction
+  - device
+---
+
 Install the teensy board manager for the arduino IDE [here](https://www.pjrc.com/teensy/td_download.html)
+
 
 ## Encoder Firmware
 [link](https://github.com/janelia-experimental-technology/Treadmill-Interface/blob/main/Firmware/EncoderInterfaceT4.ino)
+In the firmware, the Teensy outputs lines in one of the following formats:
 
-```cpp
+- **With SHOW_MICROS defined:**  
+    `micros,distance (mm),speed (mm/s)`
+    
+- **Without SHOW_MICROS defined:**  
+    `distance (mm),speed (mm/s)`
+    
+
+The firmware also responds to commands (e.g., sending `'?'` prints version and header info, and `'c'` initiates a calibration routine).
+
+```cpp 
  // EncoderInterfaceT4
 //
 //  Read the encoder and translate to a distance and send over USB-Serial and PWM DAC

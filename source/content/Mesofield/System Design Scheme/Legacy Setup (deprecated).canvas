@@ -128,46 +128,6 @@
 			"height":80
 		},
 		{
-			"id":"f1a1fa726a41599c",
-			"type":"file",
-			"file":"Mesofield/%attachments/Pasted image 20240715094939.png",
-			"styleAttributes":{},
-			"x":-1891,
-			"y":-2328,
-			"width":407,
-			"height":488
-		},
-		{
-			"id":"6918d0a2c3391d0c",
-			"type":"text",
-			"text":"[[References#^9f30c0]]",
-			"styleAttributes":{},
-			"x":-1891,
-			"y":-1841,
-			"width":324,
-			"height":50
-		},
-		{
-			"id":"30fd16d2c84368e4",
-			"type":"text",
-			"text":"# pymmcore-plus",
-			"styleAttributes":{"textAlign":"center"},
-			"x":-468,
-			"y":1160,
-			"width":320,
-			"height":60
-		},
-		{
-			"id":"843bf295a1f35c0e",
-			"type":"text",
-			"text":"# Napari",
-			"styleAttributes":{"textAlign":"center"},
-			"x":220,
-			"y":1160,
-			"width":260,
-			"height":60
-		},
-		{
 			"id":"0f0e471866c62261",
 			"type":"link",
 			"url":"https://opticexplorer.sharedigm.com/#home",
@@ -208,34 +168,44 @@
 			"height":537
 		},
 		{
-			"id":"8953d2e30d07944b",
-			"type":"text",
-			"text":"https://micro-manager.org/",
+			"id":"f1a1fa726a41599c",
+			"type":"file",
+			"file":"Mesofield/%attachments/Pasted image 20240715094939.png",
 			"styleAttributes":{},
-			"x":-814,
-			"y":640,
-			"width":372,
+			"x":-1891,
+			"y":-2328,
+			"width":407,
+			"height":488
+		},
+		{
+			"id":"6918d0a2c3391d0c",
+			"type":"text",
+			"text":"[[References#^9f30c0]]",
+			"styleAttributes":{},
+			"x":-1891,
+			"y":-1841,
+			"width":324,
 			"height":50
 		},
 		{
-			"id":"5e0c0602970e0313",
-			"type":"link",
-			"url":"https://micro-manager.org/",
-			"styleAttributes":{},
-			"x":-425,
-			"y":-120,
-			"width":1336,
-			"height":720
+			"id":"30fd16d2c84368e4",
+			"type":"text",
+			"text":"# pymmcore-plus",
+			"styleAttributes":{"textAlign":"center"},
+			"x":-468,
+			"y":1160,
+			"width":320,
+			"height":60
 		},
 		{
-			"id":"68640f4c2b304e9c",
+			"id":"843bf295a1f35c0e",
 			"type":"text",
-			"text":"# MicroManager",
-			"styleAttributes":{},
-			"x":-700,
-			"y":-240,
-			"width":360,
-			"height":80
+			"text":"# Napari",
+			"styleAttributes":{"textAlign":"center"},
+			"x":220,
+			"y":1160,
+			"width":260,
+			"height":60
 		},
 		{
 			"id":"5cd3bf7ffb47a062",
@@ -266,6 +236,36 @@
 			"y":-1474,
 			"width":607,
 			"height":499
+		},
+		{
+			"id":"8953d2e30d07944b",
+			"type":"text",
+			"text":"https://micro-manager.org/",
+			"styleAttributes":{},
+			"x":-814,
+			"y":640,
+			"width":372,
+			"height":50
+		},
+		{
+			"id":"5e0c0602970e0313",
+			"type":"link",
+			"url":"https://micro-manager.org/",
+			"styleAttributes":{},
+			"x":-425,
+			"y":-120,
+			"width":1336,
+			"height":720
+		},
+		{
+			"id":"68640f4c2b304e9c",
+			"type":"text",
+			"text":"# MicroManager",
+			"styleAttributes":{},
+			"x":-700,
+			"y":-240,
+			"width":360,
+			"height":80
 		},
 		{
 			"id":"a2a872ba86de2bf7",
@@ -380,7 +380,7 @@
 		{
 			"id":"b40ba4cb2e7300f7",
 			"type":"file",
-			"file":"Mesofield/Instruments/Control Boards/DAQ and Teensy diagram.bmp",
+			"file":"Mesofield/Instruments/Control Boards/NI-DAQ/%attachments/DAQ and Teensy diagram.bmp",
 			"styleAttributes":{},
 			"x":3,
 			"y":2415,

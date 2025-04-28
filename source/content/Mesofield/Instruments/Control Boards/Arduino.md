@@ -10,6 +10,9 @@ controls:
 author: 
 relatives:
   - "[[Rotary Encoder]]"
+tags:
+  - hardware
+  - device
 ---
 [[MicroManager#^cf4e08|Guide to Setup Arduino in Micromanager]]
 
@@ -18,7 +21,7 @@ relatives:
 https://forum.image.sc/t/facing-a-challenge-trying-to-integrate-an-arduino-with-micro-manager/93791/2
 
 # [[Arduino]] setup device firmware in Micromanager: 
-
+#tutorial 
 ^cf4e08
 
 | Summary:                     | Adapter for the [Arduino electronics prototyping platform](http://www.arduino.cc/) |

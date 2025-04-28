@@ -4,7 +4,8 @@ created: 2024-10-30
 relatives:
   - "[[XYZ Stage Control]]"
 ---
-MCM3000 Control Software
+
+[[MCM3002 Control Knobs]] Software
 
 | X    | Y     | Z     | Note        |
 | ---- | ----- | ----- | ----------- |

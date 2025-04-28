@@ -3,6 +3,8 @@ devices:
   - "[[Dhyana 400BSI V2]]"
 relatives:
   - "[[Nikon AF-S Nikkor 50mm]]"
+tags:
+  - hardware
 ---
 
 [Optical Specs](https://www.photonstophotos.net/GeneralTopics/Lenses/OpticalBench/OpticalBench.htm#Data/WO2019-116563_Example03P.txt,figureOpacity=0.25,AxisO,OffAxis)

@@ -1,12 +1,14 @@
 ---
-title: "Structuring Your Project — The Hitchhiker's Guide to Python"
-source: "https://docs.python-guide.org/writing/structure/"
-author:
-published:
+title: Structuring Your Project — The Hitchhiker's Guide to Python
+source: https://docs.python-guide.org/writing/structure/
+author: 
+published: 
 created: 2025-01-24
-description:
+description: 
 tags:
-  - "clippings"
+  - clippings
+  - python
+  - tutorial
 ---
 ![../../_images/33907151224_0574e7dfc2_k_d.jpg](https://docs.python-guide.org/_images/33907151224_0574e7dfc2_k_d.jpg)
 

@@ -3,6 +3,8 @@ relatives:
   - "[[Nikon AF-S Nikkor 50mm]]"
   - "[[Nikon AF-S Nikkor 105mm]]"
   - "[[Dhyana 400BSI V2]]"
+tags:
+  - hardware
 ---
 
 https://www.imaging-resource.com/lenses/nikon/105mm-f2d-af-dc-nikkor/specifications/

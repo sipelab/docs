@@ -81,3 +81,6 @@ The result should be a gui that shows both the meso and pupil videos above the s
 | Pupil Metadata                          | `/func`                     | `_pupil.ome.tiff_frame_metadata.json` |
 | OME TIFF Stacks                         | `/func`                     | `_meso.ome` and `_pupil.ome`          |
 | Session-Level JSON files (for dropdown) | Parent directory above BIDS | `*.json`                              |
+
+Further:
+

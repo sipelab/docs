@@ -7,7 +7,16 @@ software:
   - "[[MicroManager]]"
   - "[[PycroManager]]"
   - "[[Python/Napari]]"
+tags:
+  - hardware
 ---
+
+| Component | Specification                               |
+| --------- | ------------------------------------------- |
+| CPU       | Intel(R) Core(TM) i9-14900KF                |
+| GPU       | NVIDIA 4090 Ti                              |
+| RAM       | 128 GB                                      |
+| Storage   | 4 x 4 TB 990 Pro NVMe M.2 PCIe Internal SSD |
 
 devices:
   - [[Dhyana 400BSI V2]]
@@ -23,4 +32,4 @@ software:
   - [[MicroManager]]
   - [[Resources/Software/PsychoPy]]
   - [[pymmcore-plus]]
-  - [[DeepLabCut]]
+  - [[Resources/Software/DeepLabCut]]

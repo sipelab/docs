@@ -63,7 +63,7 @@ Github = Bitbucket = Gitlab = Website for Git for sharing with others
 
 # Commits
  #underconstruction
-[[Conventional Commits]]
+[[Resources/Development Environment/Conventional Commits]]
 [[Semantic Versioning 2.0.0]]
 ## Reverting commits
 

@@ -10,3 +10,4 @@
 [Lab Automation with Python Presentation](https://indico.cern.ch/event/958334/contributions/4028505/attachments/2122447/3572613/python_lab_automation_ebsm_bs_14_10_2020.pdf)
 
 [List of Python Lab Automation Packages](https://pymeasure.github.io/python-lab-automation-landscape/catalog/)
+

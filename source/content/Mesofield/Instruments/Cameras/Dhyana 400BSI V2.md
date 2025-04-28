@@ -3,6 +3,9 @@ relatives:
   - "[[Thorlabs CS165 MU]]"
 software:
   - "[[MicroManager]]"
+tags:
+  - camera
+  - hardware
 ---
 
 Lenses
