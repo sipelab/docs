@@ -63,18 +63,18 @@ For the work we do in lab, VSCode is all we need. It is our fancy way of editing
 
 *This is an opinionated list of Jake Gronemeyer, and does not represent a comprehensive list of extensions. However, these are the most essential for Python, data science, and Git management. If anything, you must install the official Microsoft Python, Pylance (linter), and Python Debugger in order to have a modern development environment. Though, even that is up to personal preference (and how much you respect your own sanity)*
 
-| ![[vscode-python-extensions.png]]![[vscode-datawrangler-ext.png]]![[vscode-jupyter-ext.png]]![[vscode-git-ext.png]] |
+| ![[Resources/Development Environment/attachments/vscode-python-extensions.png]]![[Resources/Development Environment/attachments/vscode-datawrangler-ext.png]]![[Resources/Development Environment/attachments/vscode-jupyter-ext.png]]![[Resources/Development Environment/attachments/vscode-git-ext.png]] |
 | ------------------------------------------------------------------------------------------------------------------- |
 
 ---
 ## Conda and VSCode
 
-![[select-conda-env-vscode.png]]![[conda-env-vscode.png]]
+![[Resources/Development Environment/attachments/select-conda-env-vscode.png]]![[Resources/Development Environment/attachments/conda-env-vscode.png]]
 
 ## Git control in VSCode
 *Microsoft provides a [useful tutorial](https://code.visualstudio.com/docs/sourcecontrol/overview) with screenshots on using the integrated Git source control in a Visual Studio Code environment. Below is a gif of the Source Control tab in VSCode:*
 
 I have added new summary to the README.md file and saved it. Now, the README.md file appears in the 'Changes' section. We stage it, add a Commit message, Commit, then Push to Github.
 
-![[Code_Wy3cRNN71y.gif]]
+![[Resources/Development Environment/attachments/Code_Wy3cRNN71y.gif]]
 

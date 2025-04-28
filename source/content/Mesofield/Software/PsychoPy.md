@@ -23,11 +23,11 @@ timestamp = time.strftime("%Y-%m-%d_%H-%M-%S")
 
 
 Output filename:
-![[Pasted image 20250128130411.png]]
+![[Mesofield/Software/attachments/Pasted image 20250128130411.png]]
 ```python
 u'data/%s/sub-%s/ses-%s/beh/sub-%s_ses-%s_%s' % (expInfo['Subject ID'], expInfo['Session ID'], expInfo['Subject ID'], expInfo['Session ID'], timestamp)
 ```
-![[Pasted image 20250128130527.png]]
+![[Mesofield/Software/attachments/Pasted image 20250128130527.png]]
 # How to parameterize a PsychoPy script from the builder
 
 
@@ -38,7 +38,7 @@ u'data/%s/sub-%s/ses-%s/beh/sub-%s_ses-%s_%s' % (expInfo['Subject ID'], expInfo[
 ## 1. Build a custom code block for system input and output:
 
 - You need to place this in the **[Before experiment*]*** tab so that the script 'asks' for arguments once it is launched and before the experiment loop initiates
-	![[PsychoPy_io-routine.png]]
+	![[Mesofield/Software/attachments/PsychoPy_io-routine.png]]
 	
 ```python
 #======== Custom Codeblock jgronemeyer =====================================#
@@ -69,15 +69,15 @@ if len(sys.argv) > 1:
 - Notice that `nTrials` is an expected argument in the system input argument list. This allows the input at the start of the script to define the number of trials for the experiment.
 - Make sure you have inserted a loop into the experiment Flow
 
-	![[PsychoPy_trial-loop.png]]
-	![[PsychoPy_nTrials.png]]
+	![[Mesofield/Software/attachments/PsychoPy_trial-loop.png]]
+	![[Mesofield/Software/attachments/PsychoPy_nTrials.png]]
 
 
 
 ## 3. We need to save the custom data 
 
 - Create a custom code block and call it `save_custom_format`. In this example, I am using the BIDS standard for saving behavioral data. Add this to the `End experiment*` tab of the Custom Code block
-	![[PsychoPy_save-bids.png]]
+	![[Mesofield/Software/attachments/PsychoPy_save-bids.png]]
 	
 ```python
 #==== Custom Codeblock jgronemeyer =====================================#
@@ -119,12 +119,12 @@ else:
 
 ## 5. Insert the `InputOutput` Routine at the beginning of the experiment Flow in the PsychoPy Builder
 
-![[PsychoPy_InputOutput-routine.png]]
+![[Mesofield/Software/attachments/PsychoPy_InputOutput-routine.png]]
 
 ## 7. Disable the `Show info dialog` option. 
 
 - This is the normally how PsychoPy asks for user inputs about experiment parameters. However, we need to disable it in order to run the script with command line arguments
-![[PsychoPy_disable-dialog.png]]
+![[Mesofield/Software/attachments/PsychoPy_disable-dialog.png]]
 
 ## 8. Compile the experiment as a Python script, and save it to your desktop 
 

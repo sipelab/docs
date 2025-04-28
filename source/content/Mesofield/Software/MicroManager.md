@@ -27,7 +27,7 @@ controls:
 	- Expand, select "TUCam: TUCSEN Camera" with double click or "Add..." button
 	- Press "OK" for initialization properties
 5. Press next buttons (keeping all defaults) 
-8. Result: ![[MicroManager Config Setup.png]]
+8. Result: ![[Mesofield/Software/attachments/MicroManager Config Setup.png]]
 
 ## Device Management
 
